@@ -2,7 +2,7 @@
 
 Hello! I am km.
 
-Write a short paragraph about your interests, skills, or goals.
+I like to play open world/solo games like Hollow knight. My career goal is to be a Robotic engineer. I also like to create stuff like games or art 
 
 ## Navigation
 

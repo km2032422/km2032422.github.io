@@ -1,4 +1,4 @@
-# Welcome to My Portfolio, Hello! My name is Kris
+# Welcome to My Portfolio, Hello! My name is km
 
 ## Projects
 

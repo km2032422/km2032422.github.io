@@ -6,15 +6,8 @@
 
   - [Text Formatting](#text-formatting)
 
-------------------------------------------------------------------
 
- Under the table is contents is where you will add your notes.
-
-Add about 30 lines below the table and then paste all of the following to the end of your notebook to have the style guide and reference:
-
- ------------------------------------------------------------------
-
-## Markdown Style Guide for Coding Notebooks
+  ## Markdown Style Guide for Coding Notebooks
 
 Follow this guide to keep your coding notebook **clear, consistent, and professional**.  
 
@@ -194,3 +187,51 @@ This concept is related to object-oriented programming.[^1]
 [^1]: See "Objects and Classes" in your textbook.
 
  
+
+# Style Rules
+
+Consistency matters more than creativity
+
+Always use headings to structure your notes.
+
+Always use code blocks for multi-line code.
+
+Clarity first
+
+Bold key terms.
+
+Use lists instead of long sentences when outlining steps.
+
+Professional tone
+
+Don’t mix casual notes with formal work in the same section.
+
+Use blockquotes for reflections or teacher feedback.
+
+Track your learning
+
+Use checklists to mark what’s done.
+
+Use collapsible sections if you want to hide answers until review time.
+
+ 
+
+# Bottom Line:
+
+Headings = Structure
+
+Bold/Italic = Emphasis
+
+Code blocks = Code
+
+Lists = Steps/Ideas
+
+Tables = Organization
+
+Checklists = Progress
+
+Blockquotes = Notes/Tips
+
+Collapsible = Hide/Show detail
+
+Keep it simple, consistent, and clear.

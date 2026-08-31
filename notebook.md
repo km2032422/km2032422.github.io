@@ -55,6 +55,9 @@ To concatenate strings means to make a bigger string by connecting two or more s
 
 
 <details>
+<summary>Procedures, Reporters, and Commands</summary>
+A procedure is a named sequence of instructions that may take inputs and may report a value. Some languages call procedures methods or functions. Here are two types of procedures you have seen in Snap!: Reporters have an oval shape. They report a value
+
   
 
 

@@ -4,9 +4,7 @@
 - [Important blocks](#important-blocks)
 - [On the AP Exam](#on-the-ap-exam)
 - [Notebook Style Guide](#markdown-style-guide-for-coding-notebooks)
-
   - [Headings](#headings)
-
   - [Text Formatting](#text-formatting)
 
 
@@ -28,6 +26,42 @@
 </details>
 
 
+<details>
+  <summary>Transparency</summary>
+    The transparency of an image is how much you can see what's behind it. Ex: <img width="480" height="237" alt="transparency2" src="https://github.com/user-attachments/assets/a0270428-a71d-470a-b573-12ee763a8f3c" />
+</details>
+
+
+<details>
+<summary>Sprites & Costumes</summary>
+    One is a sprite, which is like an actor on the stage who knows how to do many different things, such as walk around the stage and speak the lines of the play.
+The other two are costumes, picture that can be "worn" by a sprite.
+</details>
+
+
+<details>
+ <summary>Expressions & Values</summary>
+   An expression is a either a constant value (such as "4" or "winter") or a call to a reporter block including its inputs. Expressions are evaluated to produce a single value (a value can be a number, a string, a sprite, a costume, a script, a list—anything) <img width="85" height="22" alt="number" src="https://github.com/user-attachments/assets/792843d9-dcdf-40fd-bbc3-11daabdcb3f0" /> , <img width="201" height="33" alt="5+(4x3)" src="https://github.com/user-attachments/assets/ea271244-8507-4ae2-abaf-69ab9b1f6099" /> , or <img width="351" height="28" alt="join-who-doeswhat-who" src="https://github.com/user-attachments/assets/4cc6d6c0-6a26-4e22-9fe6-831725229ba0" /> ).
+</details>
+
+<details>
+  <summary>List, Strings, and Concatenation</summary>
+  A list is an ordered sequence of items. Ex: <img width="496" height="169" alt="list-from-who-result" src="https://github.com/user-attachments/assets/15295246-c699-4ba9-af49-0651db335604" />
+ 
+  The items of this list are strings. A string is a sequence of characters (letters, digits, punctuation, etc.). A substring is just a piece of some existing string. For example, "Hanna," "anna", and "nnah" are each substrings of the string "Hannah." (The empty string as well as the original string are both also substrings.)
+
+To concatenate strings means to make a bigger string by connecting two or more smaller strings. In Snap!, the <img width="116" height="27" alt="join()()" src="https://github.com/user-attachments/assets/a007acce-734a-44c6-b377-b389a623bc36" />  block lets you concatenate strings.
+</details>
+
+
+<details>
+  
+
+
+
+</details> 
+    
+
 ## Important Blocks
 <details>
   <summary>broadcast</summary>
@@ -40,7 +74,8 @@
 </details>
 
 ## On the AP Exam
-image.png
+<img width="1001" height="111" alt="image" src="https://github.com/user-attachments/assets/76ae9f59-045c-446e-abde-5ae25cf739cd" />
+
   - Many languages (and the AP CS Principles Exam) use return instead of report as the name of the command to give a value back at the end of a function call.
   - The exam uses "value of a procedure" to mean the value the procedure returns when called. For example, "the value of double(5)" means 10.
 

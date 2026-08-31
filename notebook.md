@@ -1,5 +1,8 @@
 ## Table of Contents
 
+- [Vocab](#vocab)
+- [Important blocks](#important-blocks)
+- [On the AP Exam](#on-the-ap-exam)
 - [Notebook Style Guide](#markdown-style-guide-for-coding-notebooks)
 
   - [Headings](#headings)

@@ -6,6 +6,6 @@ I like to play open world/solo games like Hollow knight. My career goal is to be
 
 ## Navigation
 
-[Notebook]
+[Notebook](notebook.md)
 
 [Home](index.md)

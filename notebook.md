@@ -57,13 +57,16 @@ To concatenate strings means to make a bigger string by connecting two or more s
 <details>
 <summary>Procedures, Reporters, and Commands</summary>
 A procedure is a named sequence of instructions that may take inputs and may report a value. Some languages call procedures methods or functions. Here are two types of procedures you have seen in Snap!: Reporters have an oval shape. They report a value
+</details>
 
-  
+<details>
+<summary>Personally Identifiable Information (PII)</summary>
+Information that can identify you as an individual is called personally identifiable information (PII). It includes details that could reveal who you are—such as your Social Security number, age, race, phone number(s), medical information, financial information, or biometric data like a thumbprint or face scan.
+</details>
 
 
 
-</details> 
-    
+
 
 ## Important Blocks
 <details>

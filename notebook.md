@@ -59,6 +59,16 @@ To concatenate strings means to make a bigger string by connecting two or more s
 A procedure is a named sequence of instructions that may take inputs and may report a value. Some languages call procedures methods or functions. Here are two types of procedures you have seen in Snap!: Reporters have an oval shape. They report a value
 </details>
 
+
+<details>
+<summary>Iteration</summary>
+Computer scientists describe a repeating program structure as looping, repetition, or iteration.
+
+The code can be repeated forever, a specific number of times (such as when using repeat), or until something specific happens (such as when using repeat until as you'll see in Lab 5).
+</details> 
+
+
+
 <details>
 <summary>Personally Identifiable Information (PII)</summary>
 Information that can identify you as an individual is called personally identifiable information (PII). It includes details that could reveal who you are—such as your Social Security number, age, race, phone number(s), medical information, financial information, or biometric data like a thumbprint or face scan.

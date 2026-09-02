@@ -62,10 +62,9 @@ A procedure is a named sequence of instructions that may take inputs and may rep
 
 <details>
 <summary>Iteration</summary>
-Computer scientists describe a repeating program structure as looping, repetition, or iteration.
+Computer scientists describe a repeating program structure as looping, repetition, or iteration. The code can be repeated forever, a specific number of times (such as when using repeat), or until something specific happens (such as when using repeat until as you'll see in Lab 5).  <img width="209" height="115" alt="repeat-4(move-100-turn-right-90)" src="https://github.com/user-attachments/assets/f6a162a7-6021-447c-96f0-2ebab9abe1c4" />
+</details>
 
-The code can be repeated forever, a specific number of times (such as when using repeat), or until something specific happens (such as when using repeat until as you'll see in Lab 5).
-</details> 
 
 
 

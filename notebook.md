@@ -74,6 +74,12 @@ Information that can identify you as an individual is called personally identifi
 </details>
 
 
+<details>
+<summary>Light Sensor</summary>
+  Light Sensor is a sensor that detects ambient light. Light Sensors can be either digital or analog. The Light Sensor in your ITEEA ExCITE Robotics System is Digital and will report a value of 1 or 0 (on or off).
+</details>
+
+
 
 
 

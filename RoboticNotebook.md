@@ -1,5 +1,21 @@
 ## Table of Contents
 
+## Blocks
+- [Blocks](#blocks)
+
+Hat Block: It looks like a hat and it's purpose is to start a stack of blocks and there shaped to attach blocks to below
+
+Stack / commands block: It looks rectangular and it can stack itself on top or below
+
+C blocks: They look like a big stack block but has a 
+
+
+## Concepts
+- [Concepts](#concepts)
+
+## Vocabulary
+- [Vocabulary](#vocabulary)
+
 - [Notebook Style Guide](#markdown-style-guide-for-coding-notebooks)
 
   - [Headings](#headings)

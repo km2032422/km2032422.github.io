@@ -1,8 +1,8 @@
 # About Me
 
-Hello! I am km.
+Hello! I am KM
 
-I like to play open world/solo games like Hollow knight. My career goal is to be a Robotic engineer. I also like to create stuff like games or art 
+I have always liked computers or robots and I want to learn these skills to make the stuff I want to create. I like to play solo games and I'm trying to develop a game.
 
 ## Navigation
 

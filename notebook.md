@@ -62,7 +62,7 @@ A procedure is a named sequence of instructions that may take inputs and may rep
 
 <details>
 <summary>Iteration</summary>
-Computer scientists describe a repeating program structure as looping, repetition, or iteration. The code can be repeated forever, a specific number of times (such as when using repeat), or until something specific happens (such as when using repeat until as you'll see in Lab 5).  <img width="209" height="115" alt="repeat-4(move-100-turn-right-90)" src="https://github.com/user-attachments/assets/f6a162a7-6021-447c-96f0-2ebab9abe1c4" /> <img width="324" height="121" alt="move-tiny-no-hat" src="https://github.com/user-attachments/assets/e9a565de-bee3-494b-9dbf-dfb56ba67e4b" />
+Computer scientists describe a repeating program structure as looping, repetition, or iteration. The code can be repeated forever, a specific number of times (such as when using repeat), or until something specific happens. (As shown) <img width="209" height="115" alt="repeat-4(move-100-turn-right-90)" src="https://github.com/user-attachments/assets/f6a162a7-6021-447c-96f0-2ebab9abe1c4" />
 </details>
 
 
@@ -79,6 +79,42 @@ Information that can identify you as an individual is called personally identifi
   Light Sensor is a sensor that detects ambient light. Light Sensors can be either digital or analog. The Light Sensor in your ITEEA ExCITE Robotics System is Digital and will report a value of 1 or 0 (on or off).
 </details>
 
+
+<details>
+  <summary>Algorithm</summary>
+   An algorithm is a sequence of steps that are usually performed by a computer. The algorithm doesn't have to be written in any particular programming language or even in a programming language at all
+</details>
+
+
+
+<details>
+<summary>Psuedocode</summary>
+Psuedocode is sometimes considered an algorithm written in human language
+</details>
+
+
+<details>
+<summary>Parameter</summary>
+A parameter (or formal parameter) is the input name, such as number of branches. The input name is set in the block definition. It never changes. <img width="600" height="223" alt="example-parameter" src="https://github.com/user-attachments/assets/c83a0567-405c-466b-a06e-c6aa479a9119" />
+</details>
+
+
+<details>
+<summary>Argument</summary>
+An argument (or actual argument) is the input value, such as 6 for a hexagonal pinwheel. The input value is given each time the block is run; it can be a different value each time.  <img width="331" height="36" alt="example-argument" src="https://github.com/user-attachments/assets/aad99c7c-aea2-49ce-b3c6-58aeb4b71170" />
+</details>
+
+
+<details>
+<summary>Micro-computer</summary>
+A micro-computer is a small but powerful computer system.
+</details>
+
+
+<details>
+<summary>Breakout Board</summary>
+A Breakout Board allows a micro-computer to be easily connected to various electronic input and output devices.
+</details>
 
 
 

@@ -10,7 +10,8 @@ Project 2:
 
 Click here to learn more → [About Me](about.md)
 
-## Notebook
+## Notebooks
 
-Click here to go to my notebook → [Notebook](notebook.md)
- 
+Click here to go to my Computer Science notebook → [Notebook](notebook.md)
+
+Click here to go to my Robotics Notebook → [Robotics Notebook](RoboticNotebook.md)

@@ -8,4 +8,6 @@ I like to play open world/solo games like Hollow knight. My career goal is to be
 
 [Notebook](notebook.md)
 
+[Robotics Notebook](RoboticNotebook.md)
+
 [Home](index.md)

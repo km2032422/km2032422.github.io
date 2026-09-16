@@ -3,15 +3,60 @@
 ## Blocks
 - [Blocks](#blocks)
 
-Hat Block: It looks like a hat and it's purpose is to start a stack of blocks and there shaped to attach blocks to below
+<details>
+<summary>Hat Block</summary>
+It looks like a hat and it's purpose is to start a stack of blocks and there shaped to attach blocks to below
+</details>
 
-Stack / commands block: It looks rectangular and it can stack itself on top or below
 
-C blocks: They look like a big stack block but has a 
+<details>
+<summary>Stack / Command block</summary>
+ It looks rectangular and it can stack itself on top or below
+</details>
+
+
+<details>
+  <summary>C block</summary>
+They look like a big stack block but has it has a space in between which allows it to have blocks inside of it
+</details>
+
+<details>
+<summary>Reporter/Oval blocks</summary>
+The reporter block reports value in the form of numbers and fits in oval inputs for other blocks
+</details>
+
+<details>
+<summary>Boolean Blocks</summary>
+The boolean returns a condition as either true or false and fits in hexagonal in other blocks
+</details>
+
+<details>
+<summary>Repeat Block</summary>
+The repeat block is a C block and it's purpose is to repeat code as many times as you tell it to input
+</details>
+
+<details>
+<summary>Wait until block</summary>
+The wait until block allows the code wait until set value or input happens
+</details>
+
+<details>
+<summary>If then block</summary>
+The If then block is a C block that lets other blocks go beneath it and it makes sure if something happens, it then proceeds the next part of the code
+</details>
+
+<details>
+<summary>Forever Block</summary>
+The forever block is a C block that lets other blocks go beneath it and it makes sure the blocks connected to it repeat forever
+</details>
 
 
 ## Concepts
 - [Concepts](#concepts)
+
+<details>
+<summary>Sequence</summary>`
+The sequence is an important part of coding because everything is 
 
 ## Vocabulary
 - [Vocabulary](#vocabulary)

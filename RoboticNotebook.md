@@ -56,7 +56,65 @@ The forever block is a C block that lets other blocks go beneath it and it makes
 
 <details>
 <summary>Sequence</summary>`
-The sequence is an important part of coding because everything is 
+The sequence is an important part of coding because everything happens because of it and it gives everything an order
+</details>
+
+
+<details>
+<summary>Parameters</summary>
+A parameter changes the command input which can change the commands original input
+</details>
+
+
+<details>
+<summary>Loops / Iterations</summary>
+The loops cause the code to do something for an amount of time depending on what it is
+</details>
+
+
+<details>
+<summary>Sensors</summary>
+There are different sensors on the Vex IQ bot that can help the robot navigate it's path (Ex: Distance, color, and Bumper sensor)
+</details>
+
+
+<details>
+<summary>Booleans & Conditions</summary>
+Booleans are the true/false information and they can control if something happens, the bot moves, and if false they could do something
+</details>
+
+
+<details>
+<summary>Sense -> Think -> Act</summary>
+A robot can sense it's nearby surroundings, if it perceives something, it thinks what to do before it acts
+</details>
+
+
+<details>
+<summary>Comparisons</summary>
+Comparisons help returns the boolean result: They can help your code run, make decisions, run loops, and control logic
+</details>
+
+
+<details>
+<summary>Coordinates</summary>
+X and Y describes the robot's location and it can help pinpoint where you are and some codes can use that to get somewhere
+</details>
+
+
+<details>
+<summary>Conditionals</summary>
+Conditional programming uses specific decision-making statements like if, and else direct how a program runs based on whether a condition is true or false
+</details>
+
+
+<details>
+<summary>Patterns</summary>
+Repeated behavior can help some certain codes to look cleaner and lets patterns to repeat
+</details>
+
+
+
 
 ## Vocabulary
 - [Vocabulary](#vocabulary)

@@ -119,6 +119,49 @@ Repeated behavior can help some certain codes to look cleaner and lets patterns 
 ## Vocabulary
 - [Vocabulary](#vocabulary)
 
+
+<details>
+<summary>VR Robot + Playground</summary>
+The VR robot is the main use for VEX VR playground. The playground is where the VR robot does the stuff
+</details>
+
+
+<details>
+<summary>Programming Language + project</summary>
+The programming language for VEX VR is block code/scratch and there is many projects you could use
+</details>
+
+
+<details>
+<summary>Behavior + Command</summary>
+Behavior is when the bot does it's commands. Commands is what the bot is told to do
+</details>
+
+<details>
+<summary>Drivetrain</summary>
+The drivetrain is the bots motion system and how it moves/turns
+</details>
+
+
+<details>
+<summary>Loop + Iteration</summary>
+The loop can do a lot of things do a stack, they could repeat it a certain number of times, do it forever + more
+</details>
+
+
+<details>
+<summary>Sensor + Bumper sensor</summary>
+The sensor is something the bot has that lets them traverse through the playground. The bumper sensor can bump into physical objects
+</details>
+
+
+<details> 
+<summary>Boolean + Condition</summary>
+Booleans are 
+
+
+  
+
 - [Notebook Style Guide](#markdown-style-guide-for-coding-notebooks)
 
   - [Headings](#headings)

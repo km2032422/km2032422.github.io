@@ -1,8 +1,8 @@
-# Welcome to My Portfolio, Hello! My name is km
+# Welcome to My Portfolio, Hello! My name is KM 
 
 ## Projects
 
-Project 1:
+Project 1: [VEX VR](vex-vr.md): This project is all about my different assignments/projects on Vex VR
 
 Project 2:
 

@@ -157,7 +157,44 @@ The sensor is something the bot has that lets them traverse through the playgrou
 
 <details> 
 <summary>Boolean + Condition</summary>
-Booleans are 
+Booleans are the True and False of coding. They could input a certain value or code as True or False based on a condition that could be met
+</details>
+
+
+<details> 
+<summary>Distance Sensor + Threshold</summary>
+The distance sensor is a sensor used by the Vex VR bot and based on a certain distance the bot might do an action or go to a location
+</details>
+
+
+<details> 
+<summary>Coordinate plane + X/Y Coordinates</summary>
+The coordinate plane is used by the Vex VR system and if you press a tab you can see the X/Y location of the bot, it can be used in codes for the distance sensor but it's also helpful for tracking where the bot is
+</details>
+
+
+<details> 
+<summary>Location Sensor</summary>
+The location sensor works a lot like the distance sensor but it goes hand to hand much better and it's made for specific task using the location of the terrain and bot
+</details>
+
+
+<details>
+<summary>Comment</summary>
+The comment block can be used to remember certain details about the code your writing, it doesn't interfere with the code and it's basically the sticky note of coding
+</details>
+
+
+<details> 
+<summary>Eye Sensor</summary>
+The eye sensor is another sensor used by the bot, unlike the other sensors it's used so the robot can specifically look for something with it's own vision like an object or color
+</details>
+
+
+<details> 
+<summary>Conditional Statement</summary>
+A conditional statement is something that code deems conditional and if certain thing is true or false it creates a statement for the other code to continue
+</details>
 
 
   

@@ -110,9 +110,21 @@ This project taught me how to use the Eye sensor and how it can use it to find s
 
 ---------------------------------------------------------------------------
 
+## Challenge: Disk Color Maze
 
+### Goal
 
+The goal for this project is to use the magnetics so the robot can pick up each color disk individually 
 
+### My Solution
+
+<img width="1397" height="683" alt="Screenshot 2026-09-29 100848" src="https://github.com/user-attachments/assets/2d4ba97d-9b30-4a76-aa62-46d45201e12e" />
+
+### What I Learned
+
+I learned how to use a magnet to pick up a color disk by using the magnet 
+
+---------------------------------------------------------------------------
 
 
 

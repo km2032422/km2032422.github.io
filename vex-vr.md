@@ -110,7 +110,7 @@ This project taught me how to use the Eye sensor and how it can use it to find s
 
 ---------------------------------------------------------------------------
 
-## Challenge: Disk Color Maze
+## Challenge: Disk mover Maze
 
 ### Goal
 

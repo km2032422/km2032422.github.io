@@ -6,7 +6,7 @@ I have always liked computers or robots and I want to learn these skills to make
 
 ## Navigation
 
-[Notebook](notebook.md)
+[CP science Notebook](notebook.md)
 
 [Robotics Notebook](RoboticNotebook.md)
 

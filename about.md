@@ -2,7 +2,7 @@
 
 Hello! I am KM
 
-I have always liked computers or robots and I want to learn these skills to make the stuff I want to create. I like to play solo games and I'm trying to develop a game.
+I have always liked computers and games so hopefully these projects I create can lead to a career and lead to my passion project being built. Otherwise I like playing games and working on myself too.
 
 ## Navigation
 

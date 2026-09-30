@@ -6,7 +6,7 @@ Project 1: [VEX VR](vex-vr.md): This project is all about my different assignmen
 
 Project 2:
 
-# CP science Projects
+## CP science Projects
 
 Project 1: [EMS Statiom](EMS-Station.md): This project is about an EMS station I built and coded
 

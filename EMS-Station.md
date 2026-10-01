@@ -10,4 +10,12 @@ The design process for the EMS station was to build a small cube box with a gara
 
 ----------------------------------------------------------------------------------------------------------------------------------
 
-# The EMS station
+# Sketches
+
+The box first started as a big box with a cut out door and it's main use was to open the door for the station but it's biggest problem was it lacked stability and it flopped down a lot. In order to fix this I made a base for below the box so it would'nt flop over and this solved the problem but now the next thing to do was to build a moving door using the position servo
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+# SNAP Code
+
+I used the program called SNAP to make a code for fire station and in the program I connected the hummingbird kit to the computer 

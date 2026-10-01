@@ -6,4 +6,8 @@ This page is a documentation of my EMS Station that was built for CP science. Th
 
 # Design process
 
-The design process for the EMS station was to build a small cube box and 
+The design process for the EMS station was to build a small cube box with a garage door that the hummingbird kit's position servo can use to open it whenever a emergency happens and the SNAP code starts the code so the garage door will open
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+# The EMS station

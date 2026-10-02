@@ -117,6 +117,42 @@ A Breakout Board allows a micro-computer to be easily connected to various elect
 </details>
 
 
+<details>
+<summary>Variable</summary>
+A variable is like a labeled box that can hold one value at a time, such as one word, one costume, or one list (which can contain many things). You can look at what's inside as many times as you want
+</details>
+
+
+
+<details>
+<summary>Local Variable</summary>
+A local variable can be set or used only in the environment in which it is defined. This term includes inputs to procedures and variables created by the for or script variables block.
+</details>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## Important Blocks

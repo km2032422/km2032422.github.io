@@ -18,4 +18,20 @@ The box first started as a big box with a cut out door and it's main use was to 
 
 # SNAP Code
 
-I used the program called SNAP to make a code for fire station and in the program I connected the hummingbird kit to the computer 
+I used the program called SNAP to make a code for fire station and in the program I connected the hummingbird kit to the computer and started coding, there is many different sections for the code but here is each.
+
+## Alonzo code
+
+
+
+## Fire station code
+
+
+
+## The 3 emergencies code
+
+
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------

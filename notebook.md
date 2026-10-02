@@ -137,9 +137,10 @@ A local variable can be set or used only in the environment in which it is defin
 </details>
 
 
-
-
-
+<details>
+<summary>If/If-else block</summary>
+The if and if-else blocks are called conditionals because they control the code based on a true-or-false condition.
+</details>
 
 
 

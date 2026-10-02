@@ -131,7 +131,10 @@ A local variable can be set or used only in the environment in which it is defin
 
 
 
-
+<details>
+<summary>Predicate and Boolean value</summary>
+ Predicate is a hexagon-shaped reporter that asks a true/false questions. Predicates report a Boolean value as either true or false.
+</details>
 
 
 

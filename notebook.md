@@ -150,8 +150,58 @@ A global variable is a variable that is usable by all scripts in the program.
 </details>
 
 
+<details>
+<summary><strong>Selection</strong></summary>
+Uses a condition to determine which part of the code starts when needed
+</details>
 
 
+<details>
+<summary>Assignment</summary>
+Stores a value in a variable for you to have for later
+</details>
+
+
+<details>
+<summary>Expression</summary>
+A combination of values, variables, and operators that evaluates a value
+</details>
+
+
+<details>
+<summary>Condition</summary>
+An expression evaluates either true or false
+</details>
+
+
+<details>
+<summary>Boolean</summary>
+A value that is either true or false
+</details>
+
+
+<details>
+<summary>Relational Operator</summary>
+Compares two values and produces a Boolean result
+</details>
+
+
+<details>
+<summary>Flow of Control</summary>
+The order in which statements in a program are excecuted
+</details>
+
+
+<details>
+<summary>Nested Selection</summary>
+A selection statement contained inside another selection statement
+</details>
+
+
+<details>
+<summary>Nested Iteration</summary>
+An iteration statement contained inside another interation statement
+</details>
 
 
 

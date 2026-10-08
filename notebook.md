@@ -205,11 +205,12 @@ An iteration statement contained inside another interation statement
 
 
 
-
-
-
-
-
+<details>
+<summary>Index</summary>
+The position number is called the index of the item in the list.  <img width="506" height="40" alt="item-2-of-list-reporting" src="https://github.com/user-attachments/assets/98b4cd4a-2587-4af2-9ec6-9b1f7d3dd1f8" />
+n this list, 1 is the index of the item "apple," 2 is the index of the item "cantaloupe," and so on.
+In Snap! and on the AP exam, the index is always a whole number (1, 2, 3, 4, etc.). It is an error to use an index less than 1 or greater than the length of the list.
+</details>
 
 
 

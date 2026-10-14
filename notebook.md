@@ -221,10 +221,10 @@ An element is another name for an item in a list. (If the same value is in the l
 
 
 
-
-
-
-
+<details>
+<summary>Sublist</summary>
+A sublist is a list used as an item of another list. (The word sublist is also used to refer to some subset of a list.)
+</details>
 
 
 

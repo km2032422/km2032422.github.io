@@ -214,10 +214,10 @@ In Snap! and on the AP exam, the index is always a whole number (1, 2, 3, 4, etc
 
 
 
-
-
-
-
+<details>
+<summary>Element</summary>
+An element is another name for an item in a list. (If the same value is in the list twice, that counts as two different elements.) Each element has a unique index (position) in the list.
+</details>
 
 
 

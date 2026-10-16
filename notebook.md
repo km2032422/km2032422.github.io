@@ -472,8 +472,6 @@ A table is a two-dimensional data structure with rows and columns. If you've use
 
 
 
-
-
 <img width="127" height="37" alt="say-gossip" src="https://github.com/user-attachments/assets/c8c3038a-3ca9-45a5-982b-2b78e659dbd9" />
 
 
@@ -493,23 +491,71 @@ A table is a two-dimensional data structure with rows and columns. If you've use
 
 
 The procedure: <img width="246" height="105" alt="double-block-definition" src="https://github.com/user-attachments/assets/d8382f87-b1a7-49dd-b843-956527456bc0" />
+ would be written as 
+PROCEDURE double(x)
+{
+    RETURN(2 * x)
+}
+ or PROCEDURE double(x)
+{
+    RETURN(2 * x)
+}.
+
+Many languages (and the AP CS Principles Exam) use return instead of report as the name of the command to give a value back at the end of a function call.
+
+The exam uses "value of a procedure" to mean the value the procedure returns when called. For example, "the value of double(5)" means 10.
 
 
 
 
 
+There is nothing exactly like             <img width="127" height="37" alt="say-gossip" src="https://github.com/user-attachments/assets/0e157a90-fdcf-442e-aa39-8da186c20220" />
+ or <img width="240" height="37" alt="say-gossip-for-3-secs" src="https://github.com/user-attachments/assets/c300488c-891c-45fd-8f93-090bfe61b257" />
+           on the AP Exam because they don't have sprites and speech balloons, but their way of showing this text to the user is DISPLAY(gossip()) if it's written as text or a white rounded rectangle containing first the word 'DISPLAY' in all caps and then a smaller white rectangle containing the word 'gossip' in lower case if it's shown as blocks.
+You won't have to be able to write code in this notation on the AP exam. You just have to be able to read it so you can answer questions about it.
 
 
 
 
+The expression <img width="235" height="27" alt="pick-random-1-to-10-full-size" src="https://github.com/user-attachments/assets/6ad908f3-b19e-43dd-8754-729a2e067b67" />   would be written as RANDOM(1, 10) or RANDOM(1, 10). Every time you run this code, you will get a different random number between 1 and 10.
 
 
 
+The procedure definition for the custom pinwheel command <img width="450" height="222" alt="pinwheel-definition" src="https://github.com/user-attachments/assets/801d3f8a-b66c-4df3-869f-65e90fdfd7e9" />  would be written as
+PROCEDURE pinwheel(numberOfBranches)
+{
+    REPEAT numberOfBranches TIMES
+    {
+        move(100)
+        move(-37)
+        turn_clockwise(360 / numberOfBranches)
+    }
+}
+ or PROCEDURE pinwheel(numberOfBranches)
+{
+    REPEAT numberOfBranches TIMES
+    {
+        move (100)
+        move (-37)
+        turn_clockwise (360 / numberOfBranches)
+    }
+}
 
 
 
+This instruction <img width="390" height="36" alt="U1L3-PinwheelwithInputs1" src="https://github.com/user-attachments/assets/f9b616af-5cc4-46fa-a1de-e36075016e56" />  would be written as Pinwheel(6, 80, 20) or a white rounded rectangle containing first the word 'PINWHEEL' in all caps and then a smaller white rectangle containing the inputs '6, 80, 20'.
+You may hear people use the term "pseudocode" to refer to this pseudo-language used on the AP CS Principles exam, but it's not pseudocode. Pseudocode isn't a programming language at all, it's the use of normal human language to describe an algorithm.
 
 
+
+The script <img width="299" height="89" alt="example-repeat-until" src="https://github.com/user-attachments/assets/0261ff9f-6d9b-4678-bf70-a384255e4f63" />  would be written as
+
+REPEAT UNTIL(mouseY() < 0)
+{
+    DISPLAY(numFish)
+}
+ or a gray rounded rectangle containing all of the following: on the first line, first the words 'REPEAT UNTIL' in all caps and then a smaller gray rounded rectangle containing 'mouseY () < 0' and on the second line, a white rounded rectangle with a smaller white rounded rectangle inside that contains first the word 'DISPLAY' in all caps and then a smaller white rectangle containing 'numFish'
+Remember, you don't need to learn to write the made-up language used on the AP exam. You just have to be able to read and answer questions about it.
 
 
 

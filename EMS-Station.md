@@ -2,6 +2,8 @@
 
 This page is a documentation of my EMS Station that was built for CP science. The problem I was trying to solve was to make a custom made EMS station to work with the SNAP coding program and create the final project of a door opening and closing whenever an emergency happens.
 
+URL for EMS station: https://snap.berkeley.edu/snap/snap.html#present:Username=lvhs5&ProjectName=EMS%20Project%20-%20New%20Starter%20Code%204%2024
+
 -------------------------------------------------------------------------------------------------------------------------------
 
 # Design process

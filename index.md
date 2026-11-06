@@ -21,3 +21,5 @@ Click here to learn more → [About Me](about.md)
 Click here to go to my Computer Science notebook → [Computer science Notebook](notebook.md)
 
 Click here to go to my Robotics Notebook → [Robotics Notebook](RoboticNotebook.md)
+
+Click here to go to my Engineering Notebook → [Engineering Notebook](engineering-notebook.md)

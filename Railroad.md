@@ -10,3 +10,10 @@ ________________________________________________________________________________
 ## Design process
 
 The design process for my train station was using the hummingbird kit as a sort of control station and I used the LED lights as the indicators, I also used the position servo as a gate that goes down when something comes near or the train.
+
+
+________________________________________________________________________________________________________________________________________________________________________________________
+
+## The process itself
+
+

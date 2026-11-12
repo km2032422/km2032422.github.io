@@ -25,3 +25,8 @@ In the span of a couple weeks, I was first working on creating the base code so 
 This code utilizes the position servo, LED, and distance server that worked with the list but there was multiple flaws such as the position servo being untellable what it was doing, the LED was just displaying red and the list has essentially no cooldown that would stop.
 
 ________________________________________________________________________________________________________________________________________________________________________________________
+
+## Proccess finished (No way) 
+
+Now after a couple of attempts to fixing it and tweaks, the final code was finished and it worked with the train perfectly
+

@@ -41,30 +41,19 @@
 
 ## Day 2
 
-— Date: __________
+— Date: 11/10/26
 
 ### 1. What was your goal or plan for today?
-- What were you trying to accomplish?
-- What steps did you plan to take?
-- What materials, parts, or tools did you need?
+- My plan today was too do measurement for my scale and race course measurements
 
 ### 2. What did you work on today?
-- What did you design, sketch, build, or program?
-- What changes or improvements did you make?
-- What tasks did you complete?
-- Include pictures, diagrams, or measurements if applicable.
+- I worked on measurements for our scale model and we are almost done with it by the end of today
 
 ### 3. What tests or experiments did you perform?
-- What were you trying to test or discover?
-- What did you predict would happen?
-- What were your results or observations?
-- Did your design or solution work as expected?
+- I did multiple calculations to find the measurements for the scale model and race course 
 
 ### 4. What challenges did you encounter?
-- What problems, errors, or failures occurred?
-- What did you try to fix or improve?
-- What worked or didn't work?
-- What would you change about your design or approach?
+- The 
 
 ### 5. What did you learn, and what comes next?
 - What new skills, concepts, or techniques did you learn?

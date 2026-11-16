@@ -24,6 +24,10 @@ In the span of a couple weeks, I was first working on creating the base code so 
 
 This code utilizes the position servo, LED, and distance server that worked with the list but there was multiple flaws such as the position servo being untellable what it was doing, the LED was just displaying red and the list has essentially no cooldown that would stop.
 
+https://drive.google.com/file/d/13fv8MGdBeci0Pnk6WpqRRuBNLIDIHfDf/view?usp=sharing
+
+This is the bot's finished code right before I made it do the train project, it was able to detect things at the right time so this was the final code right before I attempted the project.
+
 ________________________________________________________________________________________________________________________________________________________________________________________
 
 ## Proccess finished (No way) 

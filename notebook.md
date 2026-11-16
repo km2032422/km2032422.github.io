@@ -264,10 +264,10 @@ Every algorithm can be constructed using sequencing (following steps in order), 
 </details>
 
 
-
-
-
-
+<details>
+<summary>Nested Conditional statement</summary>
+A nested conditional statement is an if or if else statement inside another if else statement.
+</details>
 
 
 

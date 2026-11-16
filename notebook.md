@@ -623,6 +623,9 @@ FOR EACH point IN myDrawing
 You may see these five relational operators: =, >, <, ≥, ≤ as well as a sixth: ≠, which means "not-equal" and reports false if the two inputs are equal and otherwise reports true (if they are not equal). When you write the <img width="90" height="27" alt="not-equal" src="https://github.com/user-attachments/assets/f2ec4491-3305-4086-a137-e4b310331fe8" /> block, it will work like this: <img width="194" height="44" alt="not-equal-reporting-true" src="https://github.com/user-attachments/assets/e12e8998-8d38-41d7-9ff7-65f85aee6659" /> <img width="194" height="44" alt="not-equal-reporting-false" src="https://github.com/user-attachments/assets/f7542575-ef86-488b-bb35-df06c23b5c9b" /> These six relational operators all report a Boolean value (true or false).
 
 
+The <img width="157" height="24" alt="and-full-size" src="https://github.com/user-attachments/assets/12a608c8-6e24-4332-8ae2-b9d1c16f7a64" /> <img width="144" height="24" alt="or" src="https://github.com/user-attachments/assets/a21f0d4d-4864-44df-a617-56da611742fd" /> and <img width="104" height="24" alt="not" src="https://github.com/user-attachments/assets/c58bbdb8-f9ca-4874-8757-a922bd5ddf3b" /> blocks will appear as AND, OR, and NOT and will work exactly the same way as they do in Snap!.
+
+
 
 
 

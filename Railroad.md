@@ -34,3 +34,8 @@ ________________________________________________________________________________
 
 Now after a couple of attempts to fixing it and tweaks, the final code was finished and it worked with the train perfectly
 
+## Train project
+
+https://drive.google.com/file/d/14Wh7MrHGARFOAp-d5iJ0u_GuZLwZdgt6/view?usp=sharing
+
+This was the final project and it did everything right, it turned green and red when it's their respective time, the position servo moved when nearby, and I didn't show it but the list added it a couple seconds afterward

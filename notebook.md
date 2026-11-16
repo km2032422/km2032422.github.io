@@ -11,7 +11,8 @@
 
 
 
-
+<details>
+<summary>Vocab</summary>
 
 ## Vocab
 <details>
@@ -252,7 +253,7 @@ A table is a two-dimensional data structure with rows and columns. If you've use
 
 
 
-
+</details>
 
 
 

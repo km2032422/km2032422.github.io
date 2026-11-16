@@ -250,9 +250,11 @@ A table is a two-dimensional data structure with rows and columns. If you've use
 </details>
 
 
-
-
-
+<details>
+<summary>Domain & Range</summary>
+The input type (often called domain by programmers) of a function is the type of data that it accepts as input.
+The output type (often called range) of a function is the type of data that it reports as output.
+</details>
 
 
 

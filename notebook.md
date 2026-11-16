@@ -558,30 +558,64 @@ REPEAT UNTIL(mouseY() < 0)
 Remember, you don't need to learn to write the made-up language used on the AP exam. You just have to be able to read and answer questions about it.
 
 
+set (secret number) to (7) would be written as secretNumber ← 7 or a white rounded rectangle containing the text 'secretNumber ← 7'.
+
+
+The code <img width="384" height="69" alt="chicken-script" src="https://github.com/user-attachments/assets/5e93743f-0b8f-44e9-b260-42d886a2e6be" />  would be written as 
+DISPLAY("Why did the chicken cross the road?")
+userResponse ← INPUT()
+ or a white rounded rectangle containing two smaller white rounded rectangles: The first one contains first the word 'DISPLAY' in all caps and then a smaller white rectangle containing the quoted text 'Why did the chicken cross the road?'. The second one contains the text 'userResponse ← INPUT()'.
+Notice that the procedure INPUT() accepts the value from the user and returns that input value, which is then assigned to the variable userResponse with the ← syntax. In Snap!, this is just like how answer accepts a value from the user and reports it, and that report is what the computer sets the variable user response to.
+
+
+
+<img width="210" height="37" alt="change-score-by-1" src="https://github.com/user-attachments/assets/a6bbdd6a-b5c9-496a-a0de-2c864651f29a" />  (which means <img width="288" height="43" alt="set-score-to-score-plus-one" src="https://github.com/user-attachments/assets/f35cb8ae-eac5-4048-be62-180a2b68fe03" /> ) would be written as score ← score + 1 or score ← score + 1.
+
+The list expression <img width="232" height="28" alt="item-2-of-costumes" src="https://github.com/user-attachments/assets/9afc43f8-1268-4e6f-904c-aae798be2d25" /> would be written as costumes[2] or costumes[2]. All three versions of this code would report/return the penguin costume (if only the AP language had costumes as a data type): <img width="305" height="62" alt="item-2-of-costumes-reporting-penguin" src="https://github.com/user-attachments/assets/5fa59b8c-e819-43f4-a784-e3f42904ad34" />
+
+
+
+The expression <img width="215" height="28" alt="example-length" src="https://github.com/user-attachments/assets/5bf9a7dd-5c51-4400-a8de-fd59747a520c" />  would be written as LENGTH(wordsList) or LENGTH(wordsList).
+
+The list expression <img width="343" height="27" alt="list-from-who" src="https://github.com/user-attachments/assets/3c19d9a6-6e7c-4ade-a82b-42bb64f3f523" />  would be written as [Señora, Ms. C, my cat, Hannah, Jake]. The items are positioned in the list in the order they appear in the text: "Señora" has index 1, "Ms. C" has index 2, and so on.
+
+
+The assignment instruction would be written as shoppingList ← [] or shoppingList ← [].
+The assignment instruction <img width="503" height="42" alt="example-list-assignment" src="https://github.com/user-attachments/assets/7a62479f-b7ac-4f50-bdc8-eadb2fb42fd8" /> would be written as shoppingList ← [apples, bread, carrots, rice, pasta] or shoppingList ← [apples, bread, carrots, rice, pasta]. (In this app, you'll want the shopping list to begin empty, and then the user will add or insert additional grocery items one at a time.)
 
 
 
 
+<img width="370" height="37" alt="insert-tomatoes-at-2-of-shopping-list" src="https://github.com/user-attachments/assets/1c4705df-69a6-412b-9096-3251b3b16f27" /> would be written as INSERT(shoppingList, 2, "tomatoes") or INSERT(shoppingList, 2, 'tomatoes'). <img width="283" height="37" alt="add-tomatoes-to-shopping-list" src="https://github.com/user-attachments/assets/029fd978-d94d-4b4d-afce-94c126d062c1" />  would be written as APPEND(shoppingList, "tomatoes") or APPEND(shoppingList, 'tomatoes').
 
 
 
+<img width="276" height="37" alt="delete-item-2-of-shopping-list" src="https://github.com/user-attachments/assets/be7923c2-df8a-4b3a-be4d-7eee7af6aef6" /> would be written as REMOVE(shoppingList, 2) or REMOVE(shoppingList, 2).
 
 
 
+The items in a list are values, so you can use item of anywhere you can use any other expression. For example:
+You can assign a list item to a variable. On the exam...
+You can assign any value to a list item (a number, a string, a sprite, a costume, a script, another list, etc.). On the exam...
 
 
+When you run this script in Snap!, the second line of code assigns to shopping list 2 the value of shopping list (that is, the same list, not a copy). So, the third line of code modifies both variables:<img width="364" height="107" alt="example-list-by-reference" src="https://github.com/user-attachments/assets/86a1c98a-496b-435c-b087-b532f2c19f0b" /> <img width="319" height="139" alt="example-list-by-reference-stage" src="https://github.com/user-attachments/assets/8d3e4302-b2c8-4c29-a22d-eb8cce6691d1" /> However on the exam, the statement shoppingList2 ← shoppingList makes a copy of the list. So modifying one of them does not modify the other.
+The rules for how to use lists and how they behave differ depending on the programming language you are using.
 
 
+ 
+The script <img width="313" height="88" alt="example-for-each-point" src="https://github.com/user-attachments/assets/e305b9c8-0826-4a54-bbb8-9be889520d7c" /> would be written as 
+FOR EACH point IN myDrawing
+{
+    goto(point)
+}
+ or FOR EACH point IN myDrawing
+{
+    goto(point)
+} 
 
 
-
-
-
-
-
-
-
-
+You may see these five relational operators: =, >, <, ≥, ≤ as well as a sixth: ≠, which means "not-equal" and reports false if the two inputs are equal and otherwise reports true (if they are not equal). When you write the <img width="90" height="27" alt="not-equal" src="https://github.com/user-attachments/assets/f2ec4491-3305-4086-a137-e4b310331fe8" /> block, it will work like this: <img width="194" height="44" alt="not-equal-reporting-true" src="https://github.com/user-attachments/assets/e12e8998-8d38-41d7-9ff7-65f85aee6659" /> <img width="194" height="44" alt="not-equal-reporting-false" src="https://github.com/user-attachments/assets/f7542575-ef86-488b-bb35-df06c23b5c9b" /> These six relational operators all report a Boolean value (true or false).
 
 
 

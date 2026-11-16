@@ -257,6 +257,11 @@ The output type (often called range) of a function is the type of data that it r
 </details>
 
 
+<details>
+<summary>Sequencing, Selection, Iteration</summary>
+Selection means deciding (selecting) which part of an algorithm to run based on whether a condition is true or false.
+Every algorithm can be constructed using sequencing (following steps in order), selection (deciding), and iteration (repeating).
+</details>
 
 
 

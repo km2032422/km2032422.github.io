@@ -62,6 +62,28 @@
 - What are your next steps for the next class?
 
 ---------
+## Scale model & Course desigm
+
+Our scale model was a simple small square box that represents the bot and since this is a scaled down model, it would be the normal vex robot size.
+
+- Our teams original design for the race course was this more shifty more unique looking course
+
+ <img src="blob:chrome-untrusted://media-app/c7d5033b-e4e9-40e5-9e4f-e48e86c57157" alt="Screenshot 2026-11-16 7.07.29 PM.png"/><img width="905" height="653" alt="image" src="https://github.com/user-attachments/assets/1cc7c3b0-1c4a-47a1-9099-a100f0ec8df8" />
+
+
+- Now our second course was to expand our more weird course for a more functional course (I personally made both race course models)
+
+<img src="blob:chrome-untrusted://media-app/8125147a-651e-4113-9ea2-a49f0ab34262" alt="Screenshot 2026-11-16 7.09.09 PM.png"/><img width="905" height="653" alt="image" src="https://github.com/user-attachments/assets/b848c9d4-4692-4b33-8049-85e22f188d61" />
+
+- I made these modifications even if small so it could look better and actually be something realistic a bot could race in
+
+### Testing
+
+- The model robot on the first course would most likely get stuck at the turn due to how steep it is and with the little gap, also another flaw is it was not something 2 bots could race
+
+- The model robot on the second course is more likely to get better turns and compared to the other, much more realistic and It was easier to find the calculations to see how big it would actually have to be.
+
+---------
 
 ## Day 3
 

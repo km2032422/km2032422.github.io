@@ -53,13 +53,10 @@
 - I did multiple calculations to find the measurements for the scale model and race course 
 
 ### 4. What challenges did you encounter?
-- The 
+- The main challenge was some calculations probably aren't 1:1 accurate as I would like them to be
 
 ### 5. What did you learn, and what comes next?
-- What new skills, concepts, or techniques did you learn?
-- What did you accomplish?
-- What would you do differently?
-- What are your next steps for the next class?
+I learned how to scale the size of the scale model and turn those tiny things into replicas of how big everything would be required to make it real.
 
 ---------
 ## Scale model & Course desigm

@@ -271,10 +271,11 @@ A nested conditional statement is an if or if else statement inside another if e
 
 
 
-
-
-
-
+<details>
+<summary>String & Index</summary>
+A string is an ordered sequence of characters.
+You've already learned the word index for the position of an element in a list. The same word is used for the position of a character in a string (for example, a letter in a word). So the first input to letter is the index.
+</details>
 
 
 

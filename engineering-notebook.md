@@ -110,3 +110,5 @@ Our scale model was a simple small square box that represents the bot and since 
 - I learned how to fix measurements and actually scaling something up as a accurate model
 
 ---------
+
+## Day 4

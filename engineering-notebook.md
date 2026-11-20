@@ -92,12 +92,13 @@ Robot measurement length: 58 cm
 
 Robot measurement width: 60 cm
 
-Length scale: __:__
+Length scale: 
 
-Width scale: __:__
+Width scale: 
 
-Smallest width of the model racetrack: ___mm
-Apply scale: smallest width X scale = ___ mm
+Smallest width of the model racetrack: 20 mm
+
+Apply scale: smallest width X scale =  mm
 
 Convert to cm =
 

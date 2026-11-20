@@ -82,6 +82,8 @@ Our scale model was a simple small square box that represents the bot and since 
 - The model robot on the second course is more likely to get better turns and compared to the other, much more realistic and It was easier to find the calculations to see how big it would actually have to be.
 
 
+
+
 Cardboard measurement length: 10 mm
 
 Cardboard measurement width: 10 mm

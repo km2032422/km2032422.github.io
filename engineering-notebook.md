@@ -81,6 +81,26 @@ Our scale model was a simple small square box that represents the bot and since 
 
 - The model robot on the second course is more likely to get better turns and compared to the other, much more realistic and It was easier to find the calculations to see how big it would actually have to be.
 
+
+Cardboard measurement length: 10 mm
+
+Cardboard measurement width: 10 mm
+
+Robot measurement length: 58 cm
+
+Robot measurement width: 60 cm
+
+Length scale: __:__
+
+Width scale: __:__
+
+Smallest width of the model racetrack: ___mm
+Apply scale: smallest width X scale = ___ mm
+
+Convert to cm =
+
+Reflection: I learnt how to convert the mm to cm and so I could turn this to the race course
+
   
 
 ---------
